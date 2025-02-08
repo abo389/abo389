@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=My+Name+Is+Abdulrahman+Atif;I'm+a+Full+Stack+developer;I+Love+React+and+Laravel)](https://git.io/typing-svg)
 
@@ -53,23 +52,17 @@
 
 ###
 
-# Social media
+<h2 align="left">Social media</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdulrahman-atef-166697216/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="" >
+  <a href="https://wa.me/qr/U4G7IL4YJAB3B1" >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="" >
+  <a mailto:atf389@gmail.com >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 

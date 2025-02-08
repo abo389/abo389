@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=My+Name+Is+Abdulrahman+Atif;I'm+a+Full+Stack+developer;I+Love+React+and+Laravel)](https://git.io/typing-svg)
 
-
-###
-###
+&nbsp;
+&nbsp;
 
 <h2 align="left">I code with</h2>
 
@@ -40,8 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
 </div>
 
-###
-###
+&nbsp;
+&nbsp;
 
 <h2 align="left">Social media</h2>
 
@@ -59,16 +58,17 @@
   </a>
 </div>
 
-###
-###
+&nbsp;
+&nbsp;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abo389&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abo389&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-###
+&nbsp;
+&nbsp;
+&nbsp;
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/abo389/count.svg?"  />
